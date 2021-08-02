@@ -21,3 +21,4 @@ Junseok Lee: 4th year biology student.
 ## References
 
 https://www.kaggle.com/adityakadiwal/water-potability
+https://www.kaggle.com/fernandocorinaldesi/waterclean
