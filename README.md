@@ -1,5 +1,5 @@
-# Group 47 - {Cryptocurrency (Dogecoin) data from 2020-6/16 to 2021-6/16}
-
+# Group 47 - {Waterquality data from 2020-6/16 to 2021-6/16}
+by Junseok Lee 49527147
 
 
 ## Milestones
